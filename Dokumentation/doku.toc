@@ -1,0 +1,22 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction and explanation of Task}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Definition of european call options}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Mathematical modelation}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}Preliminars about Monte Carlo method and variance reduction}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Confidence intervals}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Variance reduction methods}{6}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Control variates}{6}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Importance sampling}{6}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Stratified sampling}{7}{subsubsection.2.2.3}
+\contentsline {section}{\numberline {3}Simple plain Monte Carlo estimation}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Using explicit formula for geometric Brownian motion}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Using Euler scheme}{8}{subsection.3.2}
+\contentsline {section}{\numberline {4}Analytical solution}{8}{section.4}
+\contentsline {section}{\numberline {5}Control variates method}{9}{section.5}
+\contentsline {section}{\numberline {6}Importance sampling method}{9}{section.6}
+\contentsline {subsection}{\numberline {6.1}Estimation with the given value for $\mu $}{10}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Find the optimal $\mu $}{10}{subsection.6.2}
+\contentsline {section}{\numberline {7}Stratifyed sampling method}{11}{section.7}
+\contentsline {subsection}{\numberline {7.1}Estimation with 500 equiprobable strata}{11}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Standard derivation for different strata}{11}{subsection.7.2}
+\contentsline {section}{\numberline {8}Comparison of the manifold methods}{11}{section.8}

@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction and explanation of Task}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Definition of european call options}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Mathematical modelation}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Preliminars about Monte Carlo method and variance reduction}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Confidence intervals}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Variance reduction methods}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Control variates}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Importance sampling}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Stratified sampling}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{Simple plain Monte Carlo estimation}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Using explicit formula for geometric Brownian motion}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Using Euler scheme}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Analytical solution}{}% 13
+\BOOKMARK [1][-]{section.5}{Control variates method}{}% 14
+\BOOKMARK [1][-]{section.6}{Importance sampling method}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Estimation with the given value for }{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Find the optimal }{section.6}% 17
+\BOOKMARK [1][-]{section.7}{Stratifyed sampling method}{}% 18
+\BOOKMARK [2][-]{subsection.7.1}{Estimation with 500 equiprobable strata}{section.7}% 19
+\BOOKMARK [2][-]{subsection.7.2}{Standard derivation for different strata}{section.7}% 20
+\BOOKMARK [1][-]{section.8}{Comparison of the manifold methods}{}% 21
